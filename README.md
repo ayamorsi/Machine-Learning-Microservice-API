@@ -1,5 +1,5 @@
 [![<ORG_NAME>](https://circleci.com/gh/ayamorsi/Machine-Learning-Microservice-API.svg?style=svg)]
-(<ayamorsi/Machine-Learning-Microservice-API>)
+
 
 
 ## Project Overview
