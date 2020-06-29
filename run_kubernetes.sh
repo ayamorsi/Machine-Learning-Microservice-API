@@ -17,5 +17,5 @@ kubectl get pods
 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward deployment/pythonapp 5000 80
+kubectl port-forward deployment/flaskapp 5000 80
 
