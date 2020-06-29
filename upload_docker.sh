@@ -10,10 +10,10 @@ dockerpath=ayamorsi/flask_app
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
-docker login --username=ayamorsi
+sudo docker login --username=ayamorsi --password-stdin
 
-docker tag flask_app ayamorsi/udacity:latest
+sudo docker tag flask_app ayamorsi/udacity
  
 # Step 3:
 # Push image to a docker repository
-docker push ayamorsi/udacity
+sudo docker push ayamorsi/udacity
