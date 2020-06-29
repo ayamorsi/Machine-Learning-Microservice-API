@@ -8,7 +8,7 @@
 
 # Step 2
 # Run the Docker Hub container with kubernetes
-kubectl apply -f kubernetes_deployment.yaml
+kubectl apply -f deployment.yaml
 
 
 # Step 3:
