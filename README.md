@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+[![<ORG_NAME>](https://circleci.com/gh/ayamorsi/Machine-Learning-Microservice-API.svg?style=svg)]
+
+
 
 ## Project Overview
 
