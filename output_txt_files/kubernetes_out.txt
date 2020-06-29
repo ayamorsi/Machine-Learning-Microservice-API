@@ -1,7 +1,7 @@
 aya_morsi163@cloudshell:~/Machine-Learning-Microservice-API$ ./run_kubernetes.sh 
 deployment.apps/flaskapp created
-NAME                       READY   STATUS              RESTARTS   AGE
-flaskapp-9979f5859-2thl5   0/1     ContainerCreating   0          1s
-flaskapp-9979f5859-jfhm7   0/1     ContainerCreating   0          1s
-flaskapp-9979f5859-slwbg   0/1     ContainerCreating   0          1s
-flaskapp-9979f5859-xmrgs   0/1     ContainerCreating   0          1s
+NAME                       READY   STATUS            RESTARTS    AGE
+flaskapp-9979f5859-2thl5    1/1     Running            0          2m51s
+flaskapp-9979f5859-jfhm7    1/1     Running            0          2m51s
+flaskapp-9979f5859-slwbg    1/1     Running            0          2m51s
+flaskapp-9979f5859-xmrgs    1/1     Running            0          2m51s
